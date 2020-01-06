@@ -1,0 +1,8 @@
+*{
+margin: 0;
+padding:0;
+}
+
+body{
+  background-image:url(../src/Assets/skulls.png), linear-gradient(to right,#0a71b2,#efa233,#0f3850,#b2382c,#96a1a8);
+}
